@@ -1,0 +1,37 @@
+Gailesh Chaudhary
+AIML Undergraduate & Full-Stack Developer
+Email: gailesh.chaudhary_cs.aiml25@gla.ac.in | Phone: +91 8439256725
+Location: Mathura, Uttar Pradesh, India
+LinkedIn: https://linkedin.com/in/gailesh-chaudhary
+GitHub: https://github.com/gailesh-codes
+Website: https://gaileshchaudhary.dev
+
+
+SUMMARY
+Motivated 2nd-year B.Tech Artificial Intelligence and Machine Learning student with a strong foundation in software engineering and web development. Proficient in Python, Java, React, and modern frontend technologies. Passionate about developing intelligent applications, integrating machine learning pipelines with responsive web interfaces, and solving algorithmic challenges.
+
+SKILLS
+- Programming Languages: Python, Java, C, JavaScript, SQL
+- Frontend & Web Technologies: React.js, HTML5, CSS3, JavaScript (ES6+)
+- AI & Data Tools: Pandas, NumPy, Scikit-Learn, OpenCV, Matplotlib
+- Developer Tools: Git, GitHub, VS Code, Linux, Postman
+- Core Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), REST APIs
+
+EDUCATION
+Bachelor of Technology in Artificial Intelligence and Machine Learning (B.Tech AIML)
+GLA university
+Expected Graduation: June 2029
+- Current Year: 2nd Year (Semester III)
+- Relevant Coursework: Data Structures, Object-Oriented Programming in Java, Database Management Systems, Discrete Mathematics, AI Fundamentals
+
+PROJECTS  (SAMPLE — SWAP IN YOUR OWN)
+●	Number Guessing / Console Calculator (Python) — built a small command-line application to practice control flow, functions, and error handling.
+●	Beginner Data Analysis Mini-Project (Pandas, NumPy) — explored a public dataset (e.g., Titanic/Iris) to practice data cleaning and basic visualization.
+●	Personal Portfolio Webpage (HTML, CSS) — designed and built a static one-page site showcasing academic background and interests.
+- Link: https://github.com/gailesh-codes/ai-resume-analyzer
+
+CERTIFICATIONS  (SAMPLE — ADD YOUR OWN)
+●	Python for Everybody — Coursera
+●	Problem Solving (Basic) — leetcode
+
+
